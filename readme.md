@@ -13,13 +13,13 @@ Contexte du projet :
     leurs sauces préférées et liker ou disliker les sauces ajoutées par les autres.  
 
 ------ 
-BACKEND => 
+BACKEND =>   
     1/ Ouvrez votre terminal et vous positionner à l'intérieur du dossier 'backend' du projet  
     2/ Installez toutes les dépendances avec 'npm install'  
     3/ lancez 'npm start'  
 
 ------
-FRONTEND => 
+FRONTEND =>  
     1/ Ouvrez votre terminal et vous positionner à l'intérieur du dossier 'frontend' du projet  
     2/ Réaliser 'npm install' pour installer toutes les dépendances   
     3/ Executez également la commande 'npm install --save node-sass'  
