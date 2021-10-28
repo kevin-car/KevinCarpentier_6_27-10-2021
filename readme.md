@@ -17,6 +17,12 @@ BACKEND =>
     1/ Ouvrez votre terminal et vous positionner à l'intérieur du dossier 'backend' du projet  
     2/ Installez toutes les dépendances avec 'npm install'  
     3/ lancez 'npm start'  
+    
+    Attention :
+    Si cette erreur apparait => 'Impossible d’ouvrir « bcrypt_lib.node » car le développeur ne peut pas être vérifié.' Il faut réinstaller le module bcrypt, cela                réglera cette erreur. Pour le faire :  
+    1/ 1/ Ouvrez votre terminal et vous positionner à l'intérieur du dossier 'backend' du projet  
+    2/ Tapez 'npm install --save bcrypt'  
+    3/ Tapez 'npm start'   
 
 ------
 FRONTEND =>  
